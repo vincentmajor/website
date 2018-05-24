@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 23 May 2018 20:21:19 -0400</lastBuildDate>
     
 	<atom:link href="https://vincentmajor.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Preprint</title>
+      <link>https://vincentmajor.com/tags/preprint/</link>
+      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
+      
+      <guid>https://vincentmajor.com/tags/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side Project</title>
+      <link>https://vincentmajor.com/tags/side-project/</link>
+      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
+      
+      <guid>https://vincentmajor.com/tags/side-project/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

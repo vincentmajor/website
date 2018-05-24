@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://vincentmajor.com/publication/ctsa-embeddings/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vincentmajor.com/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -32,6 +41,16 @@
     
     <url>
     
+      <loc>https://vincentmajor.com/publication_types/0/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vincentmajor.com/categories/</loc>
       <priority>0</priority>
     </url>
@@ -41,7 +60,28 @@
     
     <url>
     
+      <loc>https://vincentmajor.com/tags/preprint/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://vincentmajor.com/publication_types/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/tags/side-project/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -51,6 +91,7 @@
     <url>
     
       <loc>https://vincentmajor.com/tags/</loc>
+      <lastmod>2018-05-23T20:21:19-04:00</lastmod>
       <priority>0</priority>
     </url>
     
