@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Vincent Major</title>
+    <link>https://vincentmajor.com/courses/</link>
+      <atom:link href="https://vincentmajor.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Courses</title>
+      <link>https://vincentmajor.com/courses/</link>
+    </image>
+    
+  </channel>
+</rss>

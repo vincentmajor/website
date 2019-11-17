@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Vincent Major</title>
+    <title>Publications | Vincent Major</title>
     <link>https://vincentmajor.com/publication/</link>
-    <description>Recent content in Publications on Vincent Major</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://vincentmajor.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vincentmajor.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Publications</title>
+      <link>https://vincentmajor.com/publication/</link>
+    </image>
     
     <item>
-      <title>Ctsa Embeddings</title>
-      <link>https://vincentmajor.com/publication/ctsa-embeddings/</link>
-      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
-      
-      <guid>https://vincentmajor.com/publication/ctsa-embeddings/</guid>
+      <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
+      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in Translating Mortality Risk to the Point of Care</title>
+      <link>https://vincentmajor.com/publication/2019_challenges-in-translating/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2019_challenges-in-translating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
+      <link>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</guid>
       <description></description>
     </item>
     

@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Vincent Major</title>
+    <title>Tags | Vincent Major</title>
     <link>https://vincentmajor.com/tags/</link>
-    <description>Recent content in Tags on Vincent Major</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 May 2018 20:21:19 -0400</lastBuildDate>
-    
-	<atom:link href="https://vincentmajor.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vincentmajor.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Tags</title>
+      <link>https://vincentmajor.com/tags/</link>
+    </image>
     
     <item>
-      <title>Preprint</title>
-      <link>https://vincentmajor.com/tags/preprint/</link>
-      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
-      
-      <guid>https://vincentmajor.com/tags/preprint/</guid>
+      <title>End-of-life</title>
+      <link>https://vincentmajor.com/tags/end-of-life/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/tags/end-of-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://vincentmajor.com/tags/machine-learning/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Side Project</title>
       <link>https://vincentmajor.com/tags/side-project/</link>
-      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
-      
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://vincentmajor.com/tags/side-project/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alisa Surkis | Vincent Major</title>
+    <link>https://vincentmajor.com/authors/alisa-surkis/</link>
+      <atom:link href="https://vincentmajor.com/authors/alisa-surkis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alisa Surkis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Alisa Surkis</title>
+      <link>https://vincentmajor.com/authors/alisa-surkis/</link>
+    </image>
+    
+    <item>
+      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
+      <link>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

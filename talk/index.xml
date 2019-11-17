@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Vincent Major</title>
+    <title>Recent &amp; Upcoming Talks | Vincent Major</title>
     <link>https://vincentmajor.com/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Vincent Major</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+      <atom:link href="https://vincentmajor.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Mon, 05 Nov 2018 13:45:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://vincentmajor.com/talk/</link>
+    </image>
     
-	<atom:link href="https://vincentmajor.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
+      <link>https://vincentmajor.com/talk/2018_amia/</link>
+      <pubDate>Mon, 05 Nov 2018 13:45:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2018_amia/</guid>
+      <description>&lt;p&gt;These are the slides accompanying the &lt;a href=&#34;https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/&#34; target=&#34;_blank&#34;&gt;manuscript of the same name&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
+    <item>
+      <title>D4GX Immersion with Bringing Hope Home</title>
+      <link>https://vincentmajor.com/talk/2017_d4gx/</link>
+      <pubDate>Sun, 24 Sep 2017 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2017_d4gx/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

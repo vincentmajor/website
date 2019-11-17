@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Side Project on Vincent Major</title>
+    <title>Side Project | Vincent Major</title>
     <link>https://vincentmajor.com/tags/side-project/</link>
-    <description>Recent content in Side Project on Vincent Major</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 May 2018 20:21:19 -0400</lastBuildDate>
-    
-	<atom:link href="https://vincentmajor.com/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vincentmajor.com/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Side Project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Side Project</title>
+      <link>https://vincentmajor.com/tags/side-project/</link>
+    </image>
     
     <item>
-      <title>Ctsa Embeddings</title>
-      <link>https://vincentmajor.com/publication/ctsa-embeddings/</link>
-      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
-      
-      <guid>https://vincentmajor.com/publication/ctsa-embeddings/</guid>
+      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
+      <link>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Vincent Major</title>
+    <link>https://vincentmajor.com/tags/machine-learning/</link>
+      <atom:link href="https://vincentmajor.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Machine Learning</title>
+      <link>https://vincentmajor.com/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
+      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,23 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Vincent Major</title>
+    <title>Publication_types | Vincent Major</title>
     <link>https://vincentmajor.com/publication_types/</link>
-    <description>Recent content in Publication_types on Vincent Major</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 May 2018 20:21:19 -0400</lastBuildDate>
-    
-	<atom:link href="https://vincentmajor.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vincentmajor.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Publication_types</title>
+      <link>https://vincentmajor.com/publication_types/</link>
+    </image>
     
     <item>
-      <title>0</title>
-      <link>https://vincentmajor.com/publication_types/0/</link>
-      <pubDate>Wed, 23 May 2018 20:21:19 -0400</pubDate>
-      
-      <guid>https://vincentmajor.com/publication_types/0/</guid>
+      <title>3</title>
+      <link>https://vincentmajor.com/publication_types/3/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://vincentmajor.com/publication_types/2/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://vincentmajor.com/publication_types/1/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication_types/1/</guid>
       <description></description>
     </item>
     
