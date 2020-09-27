@@ -5,7 +5,7 @@
     <link>https://vincentmajor.com/authors/vincent/</link>
       <atom:link href="https://vincentmajor.com/authors/vincent/index.xml" rel="self" type="application/rss+xml" />
     <description>Vincent Major</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
       <title>Vincent Major</title>
@@ -13,10 +13,43 @@
     </image>
     
     <item>
+      <title>Development, implementation, and prospective validation of a model to predict 60-day end-of-life in hospitalized adults upon admission at three sites</title>
+      <link>https://vincentmajor.com/publication/2020_60day-eol-model-three-sites/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2020_60day-eol-model-three-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible RStudio Projects with Docker, Packages Snapshots and Packrat</title>
+      <link>https://vincentmajor.com/talk/2020_rmedicine/</link>
+      <pubDate>Fri, 28 Aug 2020 15:35:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2020_rmedicine/</guid>
+      <description>&lt;p&gt;The whole online R/Medicine 2020 program is on YouTube &lt;a href=&#34;https://www.youtube.com/playlist?list=PL4IzsxWztPdljYo7uE5G_R2PtYw3fUReo&#34; target=&#34;_blank&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting End-Of-Life in the Hospital: Preliminary Results and Challenges</title>
+      <link>https://vincentmajor.com/talk/2019_aihs/</link>
+      <pubDate>Fri, 08 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2019_aihs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
-      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
+      <link>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
+      <guid>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Configurable Streaming Prediction System: a Use-Case in End-of-Life.</title>
+      <link>https://vincentmajor.com/talk/2019_fac/</link>
+      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2019_fac/</guid>
       <description></description>
     </item>
     

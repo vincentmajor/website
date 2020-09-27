@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Vincent Major</title>
+    <title>Talks | Vincent Major</title>
     <link>https://vincentmajor.com/talk/</link>
       <atom:link href="https://vincentmajor.com/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Mon, 05 Nov 2018 13:45:00 +0000</lastBuildDate>
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Fri, 28 Aug 2020 15:35:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://vincentmajor.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Reproducible RStudio Projects with Docker, Packages Snapshots and Packrat</title>
+      <link>https://vincentmajor.com/talk/2020_rmedicine/</link>
+      <pubDate>Fri, 28 Aug 2020 15:35:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2020_rmedicine/</guid>
+      <description>&lt;p&gt;The whole online R/Medicine 2020 program is on YouTube &lt;a href=&#34;https://www.youtube.com/playlist?list=PL4IzsxWztPdljYo7uE5G_R2PtYw3fUReo&#34; target=&#34;_blank&#34;&gt;here!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting End-Of-Life in the Hospital: Preliminary Results and Challenges</title>
+      <link>https://vincentmajor.com/talk/2019_aihs/</link>
+      <pubDate>Fri, 08 Nov 2019 16:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2019_aihs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Configurable Streaming Prediction System: a Use-Case in End-of-Life.</title>
+      <link>https://vincentmajor.com/talk/2019_fac/</link>
+      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2019_fac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>

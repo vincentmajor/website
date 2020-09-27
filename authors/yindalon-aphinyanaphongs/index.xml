@@ -5,7 +5,7 @@
     <link>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</link>
       <atom:link href="https://vincentmajor.com/authors/yindalon-aphinyanaphongs/index.xml" rel="self" type="application/rss+xml" />
     <description>Yindalon Aphinyanaphongs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
       <title>Yindalon Aphinyanaphongs</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Development, implementation, and prospective validation of a model to predict 60-day end-of-life in hospitalized adults upon admission at three sites</title>
+      <link>https://vincentmajor.com/publication/2020_60day-eol-model-three-sites/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/publication/2020_60day-eol-model-three-sites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
-      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
+      <link>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
+      <guid>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</guid>
       <description></description>
     </item>
     

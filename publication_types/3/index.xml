@@ -5,7 +5,7 @@
     <link>https://vincentmajor.com/publication_types/3/</link>
       <atom:link href="https://vincentmajor.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
       <title>3</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
-      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
+      <link>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
+      <guid>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</guid>
       <description></description>
     </item>
     

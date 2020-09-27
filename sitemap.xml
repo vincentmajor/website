@@ -1,153 +1,307 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://vincentmajor.com/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/courses/example/</loc>
+      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/vincent/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication_types/2/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/authors/vincent/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication_types/3/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication/2020_60day-eol-model-three-sites/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/authors/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/tags/end-of-life/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/tags/end-of-life/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/tags/machine-learning/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication/2019_censoring-and-selection/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication_types/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/tags/machine-learning/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/authors/neil-jethani/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/tags/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication_types/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</loc>
+      <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/tags/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/2020_rmedicine/</loc>
+      <lastmod>2020-08-28T15:35:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/</loc>
+      <lastmod>2020-08-28T15:35:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/2019_aihs/</loc>
+      <lastmod>2019-11-08T16:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication_types/2/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication_types/3/</loc>
+      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication/2019_challenges-in-translating/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication/2019_estimating-real-world-performance/</loc>
+      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/neil-jethani/</loc>
+      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/2019_fac/</loc>
+      <lastmod>2019-09-18T15:15:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/post/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/jager-hartman/</loc>
+      <lastmod>2019-09-18T15:15:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/post/2019-11-14_seer_read_fwf/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/yin-aphinyanaphongs/</loc>
+      <lastmod>2019-09-18T15:15:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/talk/</loc>
-    <lastmod>2018-11-05T13:45:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication/2019_challenges-in-translating/</loc>
+      <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/talk/2018_amia/</loc>
-    <lastmod>2018-11-05T13:45:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/slides/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication_types/1/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/slides/example/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/authors/alisa-surkis/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/post/</loc>
+      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/tags/side-project/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/post/2019-11-14_seer_read_fwf/</loc>
+      <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</loc>
-    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/2018_amia/</loc>
+      <lastmod>2018-11-05T13:45:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/talk/2017_d4gx/</loc>
-    <lastmod>2017-09-24T15:15:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication_types/1/</loc>
+      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/categories/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/authors/alisa-surkis/</loc>
+      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://vincentmajor.com/courses/</loc>
-  </url>
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/tags/side-project/</loc>
+      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</loc>
+      <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/talk/2017_d4gx/</loc>
+      <lastmod>2017-09-24T15:15:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/categories/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://vincentmajor.com/courses/</loc>
+    </url>
+    
   
 </urlset>

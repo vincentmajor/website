@@ -1,488 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vincent Major</title>
+    <title>Vincent Major on Vincent Major</title>
     <link>https://vincentmajor.com/</link>
-      <atom:link href="https://vincentmajor.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Vincent Major</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://vincentmajor.com/img/portrait.jpg</url>
-      <title>Vincent Major</title>
-      <link>https://vincentmajor.com/</link>
-    </image>
+    <description>Recent content in Vincent Major on Vincent Major</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Vincent Major 2018–{year}</copyright>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Page 1</title>
-      <link>https://vincentmajor.com/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://vincentmajor.com/courses/example/example1/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Publications</title>
+      <link>https://vincentmajor.com/publication/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentmajor.com/publication/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=pM1yxtsAAAAJ&#34; target=&#34;_blank&#34;&gt;Complete list on Google Scholar&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>https://vincentmajor.com/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://vincentmajor.com/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimating Real World Performance of a Predictive Model: A Case-Study in Predicting End-of-Life</title>
-      <link>https://vincentmajor.com/publication/2019_censoring-and-selection/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2019_censoring-and-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges in Translating Mortality Risk to the Point of Care</title>
-      <link>https://vincentmajor.com/publication/2019_challenges-in-translating/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2019_challenges-in-translating/</guid>
+      <title>Talks</title>
+      <link>https://vincentmajor.com/talk/</link>
+      <pubDate>Fri, 28 Aug 2020 15:35:00 +0000</pubDate>
+      
+      <guid>https://vincentmajor.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://vincentmajor.com/slides/example/</link>
+      <link>https://vincentmajor.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
       
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reading SEER fixed width files</title>
-      <link>https://vincentmajor.com/post/2019-11-14_seer_read_fwf/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/post/2019-11-14_seer_read_fwf/</guid>
-      <description>&lt;p&gt;I help teach a class each summer which serves as an introducion to biomedical informatics and programming for, mostly resident, physicians.
-During the 4 weeks, we present basics in R and guide the students to start an analysis usually using a publically available dataset.
-One dataset that comes up every year is &lt;a href=&#34;https://seer.cancer.gov/data/&#34;&gt;SEER&lt;/a&gt; from the National Cancer Institute.&lt;/p&gt;
-
-&lt;p&gt;But, there&#39;s a problem. SEER suggests you use their software, &lt;em&gt;SEER*Stat&lt;/em&gt;, which requires you to use Windows.
-They &lt;em&gt;do&lt;/em&gt; provide data in an alternative &amp;quot;ASCII text format&amp;quot; but provide little guidance for new users to get started.&lt;/p&gt;
-
-&lt;h1 id=&#34;reading-text-files&#34;&gt;Reading text files&lt;/h1&gt;
-
-&lt;p&gt;Reading data into R is full of pitfalls for any new programmer:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;multi-line headers,&lt;/li&gt;
-&lt;li&gt;atypical delimiters,&lt;/li&gt;
-&lt;li&gt;odd field types (e.g. Excel dates).&lt;/li&gt;
-&lt;li&gt;leading zeros / whitespace,&lt;/li&gt;
-&lt;li&gt;atypical values for missing data,&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;SEER throws another curveball because their &amp;quot;ASCII text format&amp;quot; is actually a &lt;strong&gt;fixed width file&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;h2 id=&#34;fixed-width-files&#34;&gt;Fixed width files&lt;/h2&gt;
-
-&lt;p&gt;Most text based data files use a delimiter (otherwise known as a separator; e.g. commas, semicolons, spaces, or tabs) that marks the end of one field and the start of the next.
-On the other hand, a fixed width file (FWF) specifies the &lt;strong&gt;position&lt;/strong&gt; or &lt;strong&gt;width&lt;/strong&gt; of each field.&lt;/p&gt;
-
-&lt;p&gt;For example, here is a file where the first field is 20 characters long, the second field is 10 characters long and the third, and final, field is another 12 characters long.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;John Smith          WA        418-Y11-4111
-Mary Hartford       CA        319-Z19-4341
-Evan Nolan          IL        219-532-c301
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;To make FWFs even &lt;em&gt;more&lt;/em&gt; complicated, they often don&#39;t use a header to specify the field names. Since the user is supposed to know the field positons, they should also know the field names.&lt;/p&gt;
-
-&lt;p&gt;With the field names and positions (or widths), we can load the file and it should look like this:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;State&lt;/th&gt;
-&lt;th&gt;SSN&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&amp;quot;John Smith          &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;WA        &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;418-Y11-4111&amp;quot;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;quot;Mary Hartford       &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;CA        &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;319-Z19-4341&amp;quot;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&amp;quot;Evan Nolan          &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;IL        &amp;quot;&lt;/td&gt;
-&lt;td&gt;&amp;quot;219-532-c301&amp;quot;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;r-code&#34;&gt;R code&lt;/h2&gt;
-
-&lt;p&gt;The &lt;code&gt;readr::read_fwf()&lt;/code&gt; function is great for reading FWFs.
-The format is very similar to the rest of &lt;code&gt;readr&lt;/code&gt; (and, in turn, the rest of the &lt;code&gt;tidyverse&lt;/code&gt;) and you can specify the field names and positions in your favorite way or let &lt;code&gt;read_fwf&lt;/code&gt; guess for you.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(readr)
-
-read_fwf(fwf_sample, fwf_cols(name = 20, state = 10, ssn = 12) )
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Which returns a tibble that looks like:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# A tibble: 3 x 3
-  name          state ssn         
-  &amp;lt;chr&amp;gt;         &amp;lt;chr&amp;gt; &amp;lt;chr&amp;gt;       
-1 John Smith    WA    418-Y11-4111
-2 Mary Hartford CA    319-Z19-4341
-3 Evan Nolan    IL    219-532-c301
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You&#39;ll notice that &lt;code&gt;read_fwf&lt;/code&gt; trimmed the whitespace from the end of each field too (&lt;code&gt;&amp;quot;John Smith&amp;quot;&lt;/code&gt; rather than &lt;code&gt;&amp;quot;John Smith          &amp;quot;&lt;/code&gt;), which is nice.&lt;/p&gt;
-
-&lt;h1 id=&#34;reading-seer-data&#34;&gt;Reading SEER data&lt;/h1&gt;
-
-&lt;p&gt;So, how do you apply this to SEER if we don&#39;t know the column names and positions?&lt;/p&gt;
-
-&lt;p&gt;You can&#39;t.&lt;/p&gt;
-
-&lt;p&gt;But, each SEER &amp;quot;ASCII text file&amp;quot; comes with a &lt;code&gt;.sas&lt;/code&gt; script that can be used to read the file into SAS.
-Here&#39;s &lt;a href=&#34;https://seer.cancer.gov/manuals/read.seer.limitedfield.research.nov2018.sas&#34;&gt;an example&lt;/a&gt; that looks like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;*filename seer21 &#39;./yr2000_2016.seer21/*.TXT&#39;;    
-  
-data in;                                                                              
-  infile seer21 lrecl=87;                                                             
-  input                                                                               
-    @ 1   PUBCSNUM             $char8.  /* Patient ID */
-    @ 9   REG                  $char10.  /* SEER registry */
-    @ 19  RACE1V               $char2.  /* Race/ethnicity */
-    @ 21  SEX                  $char1.  /* Sex */
-...
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now I don&#39;t know SAS but I can see what this code is doing.
-Each line after &lt;code&gt;input&lt;/code&gt; defines one field and it&#39;s:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;start position,&lt;/li&gt;
-&lt;li&gt;field name,&lt;/li&gt;
-&lt;li&gt;field type (and length/precision [the number after &amp;quot;char&amp;quot;]), and&lt;/li&gt;
-&lt;li&gt;a bonus description of the field.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;With this &lt;code&gt;.sas&lt;/code&gt; file we have everything we need to read the entire file.&lt;/p&gt;
-
-&lt;h2 id=&#34;programmatically-extracting-field-information&#34;&gt;Programmatically extracting field information&lt;/h2&gt;
-
-&lt;p&gt;We can use R to extract the 4 components that describe each field in the &lt;code&gt;.sas&lt;/code&gt; file.&lt;/p&gt;
-
-&lt;p&gt;Using &lt;code&gt;tidyverse&lt;/code&gt; again here:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;sas.raw &amp;lt;- read_lines(sas.file)
-
-sas.df &amp;lt;- tibble(raw = sas.raw) %&amp;gt;% 
-  ## remove first few rows by insisting an @ that defines the start index of that field
-  filter(str_detect(raw, &amp;quot;@&amp;quot;)) %&amp;gt;% 
-  ## extract out the start, width and column name+description fields
-  mutate(start = str_replace(str_extract(raw, &amp;quot;@ [[:digit:]]{1,3}&amp;quot;), &amp;quot;@ &amp;quot;, &amp;quot;&amp;quot;),
-         width = str_replace(str_extract(raw, &amp;quot;\\$char[[:digit:]]{1,2}&amp;quot;), &amp;quot;\\$char&amp;quot;, &amp;quot;&amp;quot;),
-         col_name = str_extract(raw, &amp;quot;[[:upper:]]+[[:upper:][:digit:][:punct:]]+&amp;quot;),
-         col_desc = str_trim(str_replace(str_replace(str_extract(raw, &amp;quot;\\/\\*.+\\*\\/&amp;quot;), &amp;quot;\\/\\*&amp;quot;, &amp;quot;&amp;quot;), &amp;quot;\\*\\/&amp;quot;, &amp;quot;&amp;quot; )) ) %&amp;gt;% 
-  ## coerce to integers
-  mutate_at(vars(start, width), funs(as.integer)) %&amp;gt;% 
-  ## calculate the end position
-  mutate(end = start + width - 1)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;(I&#39;m assuming &lt;code&gt;sas.file&lt;/code&gt; is either a link to a file online, such as &lt;code&gt;&amp;quot;https://seer.cancer.gov/manuals/read.seer.limitedfield.research.nov2018.sas&amp;quot;&lt;/code&gt;, or a local file, such as &lt;code&gt;&amp;quot;path/to/file/example.sas&amp;quot;&lt;/code&gt;)&lt;/p&gt;
-
-&lt;p&gt;And with that we have a &lt;code&gt;sas.df&lt;/code&gt; data frame (or tibble) that looks like:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# A tibble: 35 x 6
-   raw                                                                  start width col_name col_desc                    end
-   &amp;lt;chr&amp;gt;                                                                &amp;lt;int&amp;gt; &amp;lt;int&amp;gt; &amp;lt;chr&amp;gt;    &amp;lt;chr&amp;gt;                     &amp;lt;dbl&amp;gt;
- 1 &amp;quot;    @ 1   PUBCSNUM             $char8.  /* Patient ID */&amp;quot;               1     8 PUBCSNUM Patient ID                    8
- 2 &amp;quot;    @ 9   REG                  $char10.  /* SEER registry */&amp;quot;           9    10 REG      SEER registry                18
- 3 &amp;quot;    @ 19  RACE1V               $char2.  /* Race/ethnicity */&amp;quot;          19     2 RACE1V   Race/ethnicity               20
- 4 &amp;quot;    @ 21  SEX                  $char1.  /* Sex */&amp;quot;                     21     1 SEX      Sex                          21
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Most importantly, &lt;code&gt;sas.df&lt;/code&gt; contains start (and width) values and names for each field that we can directly use to read the whole file:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;## read the file with the fixed width positions
-data.df &amp;lt;- read_fwf(file_path, 
-                    fwf_positions(sas.df$start, sas.df$end, sas.df$col_name))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;And we&#39;re done!&lt;/p&gt;
-
-&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
-
-&lt;p&gt;I&#39;ve used this template to help several different people start different SEER projects over the years and as long as you can find a &lt;code&gt;.sas&lt;/code&gt; file that matches your data, this will work with almost no effort.
-However, different SEER datasets have different formats so take care to check.&lt;/p&gt;
-
-&lt;p&gt;A simple script is up on github &lt;a href=&#34;https://github.com/vincentmajor/SEER_read_fwf&#34;&gt;here&lt;/a&gt;.
-&lt;strong&gt;Don&#39;t forget to change the &lt;code&gt;.sas&lt;/code&gt; file/link and the file path&lt;/strong&gt; to your own copy of whichever SEER dataset.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
-      <link>https://vincentmajor.com/talk/2018_amia/</link>
-      <pubDate>Mon, 05 Nov 2018 13:45:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/talk/2018_amia/</guid>
-      <description>&lt;p&gt;These are the slides accompanying the &lt;a href=&#34;https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/&#34; target=&#34;_blank&#34;&gt;manuscript of the same name&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Utility of General and Specific Word Embeddings for Classifying Translational Stages of Research</title>
-      <link>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/publication/2018_general-vs-specific-embeddings/</guid>
+      <guid>https://vincentmajor.com/slides/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>D4GX Immersion with Bringing Hope Home</title>
-      <link>https://vincentmajor.com/talk/2017_d4gx/</link>
-      <pubDate>Sun, 24 Sep 2017 15:15:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/talk/2017_d4gx/</guid>
+      <title>Posts</title>
+      <link>https://vincentmajor.com/post/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentmajor.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://vincentmajor.com/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincentmajor.com/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
       <description></description>
     </item>
     

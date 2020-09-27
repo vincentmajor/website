@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jager Hartman | Vincent Major</title>
+    <link>https://vincentmajor.com/authors/jager-hartman/</link>
+      <atom:link href="https://vincentmajor.com/authors/jager-hartman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jager Hartman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Wed, 18 Sep 2019 15:15:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincentmajor.com/img/portrait.jpg</url>
+      <title>Jager Hartman</title>
+      <link>https://vincentmajor.com/authors/jager-hartman/</link>
+    </image>
+    
+    <item>
+      <title>A Configurable Streaming Prediction System: a Use-Case in End-of-Life.</title>
+      <link>https://vincentmajor.com/talk/2019_fac/</link>
+      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/talk/2019_fac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

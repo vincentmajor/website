@@ -5,7 +5,7 @@
     <link>https://vincentmajor.com/authors/</link>
       <atom:link href="https://vincentmajor.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2019</copyright><lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
       <title>Authors</title>
@@ -15,13 +15,20 @@
     <item>
       <title></title>
       <link>https://vincentmajor.com/authors/vincent/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vincentmajor.com/authors/vincent/</guid>
-      <description>&lt;p&gt;Vincent Major is a PhD Candidate studying Medical Informatics at NYU Langone Health.
-Working with the Predictive Analytics Unit, a division of Population Health,
-he focuses on development, validation, and deployment of machine and deep learning
-models learnt from and feeding back into the electronic medical record.&lt;/p&gt;
+      <description>&lt;p&gt;Vincent J. Major, PhD is a Data Engineer at NYU Langone Health working with the &lt;a href=&#34;https://nyupau.github.io/&#34; target=&#34;_blank&#34;&gt;Predictive Analytics Unit&lt;/a&gt; within the Department of Population Health. Vincent&amp;rsquo;s work focuses on applied machine learning for healthcare and involves the development, validation, and deployment of predictive models using electronic health record (EHR) data.&lt;/p&gt;
+
+&lt;p&gt;Vincent received his PhD from New York University in 2020 for his work using EHR data to develop machine learning models to estimate risk of death within 60 days of hospitalization to encourage end-of-life planning. For his Master&amp;rsquo;s research, Vincent studied the respiratory dynamics of critical care patients supported by invasive mechanical ventilation using mathematical modeling and signal processing methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Yindalon Aphinyanaphongs</title>
+      <link>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -33,10 +40,18 @@ models learnt from and feeding back into the electronic medical record.&lt;/p&gt
     </item>
     
     <item>
-      <title>Yindalon Aphinyanaphongs</title>
-      <link>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</guid>
+      <title>Jager Hartman</title>
+      <link>https://vincentmajor.com/authors/jager-hartman/</link>
+      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/jager-hartman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Aphinyanaphongs</title>
+      <link>https://vincentmajor.com/authors/yin-aphinyanaphongs/</link>
+      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/yin-aphinyanaphongs/</guid>
       <description></description>
     </item>
     
