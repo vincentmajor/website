@@ -5,7 +5,7 @@
     <link>https://vincentmajor.com/authors/</link>
       <atom:link href="https://vincentmajor.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Vincent Major 2018–2020</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vincentmajor.com/img/portrait.jpg</url>
       <title>Authors</title>
@@ -15,18 +15,194 @@
     <item>
       <title></title>
       <link>https://vincentmajor.com/authors/vincent/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vincentmajor.com/authors/vincent/</guid>
-      <description>&lt;p&gt;Vincent J. Major, PhD is a Data Engineer at NYU Langone Health working with the &lt;a href=&#34;https://nyupau.github.io/&#34; target=&#34;_blank&#34;&gt;Predictive Analytics Unit&lt;/a&gt; within the Department of Population Health. Vincent&amp;rsquo;s work focuses on applied machine learning for healthcare and involves the development, validation, and deployment of predictive models using electronic health record (EHR) data.&lt;/p&gt;
+      <description>&lt;p&gt;Vincent J. Major, PhD, is an Assistant Professor of Population Health at NYU Grossman School of Medicine who works closely with NYU Langone Health&amp;rsquo;s &lt;a href=&#34;https://nyupau.github.io/&#34; target=&#34;_blank&#34;&gt;Predictive Analytics Unit&lt;/a&gt;. Vincent&amp;rsquo;s work focuses on applied machine learning for healthcare and involves the development, validation, and deployment of predictive models using electronic health record (EHR) data.&lt;/p&gt;
 
-&lt;p&gt;Vincent received his PhD from New York University in 2020 for his work using EHR data to develop machine learning models to estimate risk of death within 60 days of hospitalization to encourage end-of-life planning. For his Master&amp;rsquo;s research, Vincent studied the respiratory dynamics of critical care patients supported by invasive mechanical ventilation using mathematical modeling and signal processing methods.&lt;/p&gt;
+&lt;p&gt;Vincent received his PhD from New York University in 2020 for &lt;a href=&#34;https://search.proquest.com/openview/91689540c8c89b2e5e4c98285df096b1/&#34; target=&#34;_blank&#34;&gt;his thesis work&lt;/a&gt; using EHR data to develop machine learning models to estimate risk of death within 60 days of hospitalization to encourage end-of-life planning. For his Master&amp;rsquo;s research, Vincent studied the respiratory dynamics of critical care patients supported by invasive mechanical ventilation using mathematical modeling and signal processing methods.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Brian Bosworth</title>
+      <link>https://vincentmajor.com/authors/brian-bosworth/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/brian-bosworth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cameron Zenger</title>
+      <link>https://vincentmajor.com/authors/cameron-zenger/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/cameron-zenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Kudlowitz</title>
+      <link>https://vincentmajor.com/authors/david-kudlowitz/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/david-kudlowitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fritz Francois</title>
+      <link>https://vincentmajor.com/authors/fritz-francois/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/fritz-francois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Zhang</title>
+      <link>https://vincentmajor.com/authors/hao-zhang/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/hao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardev Randhawa</title>
+      <link>https://vincentmajor.com/authors/hardev-randhawa/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/hardev-randhawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilan Reinstein</title>
+      <link>https://vincentmajor.com/authors/ilan-reinstein/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/ilan-reinstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesse Burk-Rafel</title>
+      <link>https://vincentmajor.com/authors/jesse-burk-rafel/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/jesse-burk-rafel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ji Chen</title>
+      <link>https://vincentmajor.com/authors/ji-chen/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/ji-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Austrian</title>
+      <link>https://vincentmajor.com/authors/jonathan-austrian/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/jonathan-austrian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keerthi B. Harish</title>
+      <link>https://vincentmajor.com/authors/keerthi-b.-harish/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/keerthi-b.-harish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leora I. Horwitz</title>
+      <link>https://vincentmajor.com/authors/leora-i.-horwitz/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/leora-i.-horwitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Cao</title>
+      <link>https://vincentmajor.com/authors/meng-cao/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/meng-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mukund Sudarshan</title>
+      <link>https://vincentmajor.com/authors/mukund-sudarshan/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/mukund-sudarshan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narges Razavian</title>
+      <link>https://vincentmajor.com/authors/narges-razavian/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/narges-razavian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Stella</title>
+      <link>https://vincentmajor.com/authors/peter-stella/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/peter-stella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajesh Ranganath</title>
+      <link>https://vincentmajor.com/authors/rajesh-ranganath/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/rajesh-ranganath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruina Zhang</title>
+      <link>https://vincentmajor.com/authors/ruina-zhang/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/ruina-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seda Bilaloglu</title>
+      <link>https://vincentmajor.com/authors/seda-bilaloglu/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/seda-bilaloglu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siddhant Dogra</title>
+      <link>https://vincentmajor.com/authors/siddhant-dogra/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/siddhant-dogra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuthy Nguy</title>
+      <link>https://vincentmajor.com/authors/vuthy-nguy/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/vuthy-nguy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walter Wang</title>
+      <link>https://vincentmajor.com/authors/walter-wang/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://vincentmajor.com/authors/walter-wang/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Yindalon Aphinyanaphongs</title>
       <link>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vincentmajor.com/authors/yindalon-aphinyanaphongs/</guid>
       <description></description>
     </item>
@@ -44,14 +220,6 @@
       <link>https://vincentmajor.com/authors/jager-hartman/</link>
       <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
       <guid>https://vincentmajor.com/authors/jager-hartman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Aphinyanaphongs</title>
-      <link>https://vincentmajor.com/authors/yin-aphinyanaphongs/</link>
-      <pubDate>Wed, 18 Sep 2019 15:15:00 +0000</pubDate>
-      <guid>https://vincentmajor.com/authors/yin-aphinyanaphongs/</guid>
       <description></description>
     </item>
     
